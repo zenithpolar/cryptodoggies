@@ -2,13 +2,7 @@
   "name": "cryptodoggies",
   "version": "1.0.0",
   "description": "Purchase your favourite Digital Crypto Doggies on the blockchain",
-  "keywords": [
-    "solidity",
-    "ethereum",
-    "smart",
-    "contracts",
-    "cryptodoggies"
-  ],
+  "keywords": ["solidity", "ethereum", "smart", "contracts", "cryptodoggies"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/t04glovern/cryptodoggies.git"
@@ -23,7 +17,7 @@
     "ethereumjs-testrpc": "^6.0.1",
     "ethereumjs-util": "^5.1.4",
     "lite-server": "^2.3.0",
-    "solc": "^0.4.20",
+    "solc": "^0.4.19",
     "solidity-parser": "^0.4.0",
     "truffle": "^4.1.0",
     "truffle-hdwallet-provider": "0.0.3"
